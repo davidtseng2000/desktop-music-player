@@ -21,7 +21,7 @@ This is a Vibe Coding practice project developed with the help of AI (ChatGPT).
 
 ## 🖥️ Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](./example.jpg)
 
 ---
 
