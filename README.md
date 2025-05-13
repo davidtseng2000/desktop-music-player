@@ -42,7 +42,7 @@ Windows default:
 
 If VLC is installed elsewhere, modify the `os.add_dll_directory(...)` line in `dmp.py`.
 
-## Build as Executable
+## 🛠 Build as Executable
 You can build the program into a standalone `.exe` using **PyInstaller**:
 
 `pip install pyinstaller
